@@ -1,0 +1,4 @@
+baseURL = 'http://iamval.me'
+languageCode = 'en-us'
+title = 'Hi! I am Val'
+theme = 'pulp'
