@@ -54,5 +54,14 @@ Block math: $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</d
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Who Is Val Anyway?</title>
+      <link>https://iamval.me/blog/whoisval/</link>
+      <pubDate>Mon, 17 Jul 1978 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamval.me/blog/whoisval/</guid>
+      <description>&lt;h1 id=&#34;wanna-find-out&#34;&gt;Wanna find out?&lt;/h1&gt;</description>
+    </item>
+    
   </channel>
 </rss>
