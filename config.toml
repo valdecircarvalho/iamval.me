@@ -17,9 +17,11 @@ publishDir = "docs"
     # avatarDescription = "My avatar description"
     favicon = "favicon.ico"
     description = """
-        Nerd, Community Lover, IT Guy, Father, Maried,  Old School Gamer, Retired Wedding Photographer, Blogger, Speaker, Podcaster.
+        Nerd, Community Lover, IT Guy, Father, Husband, Old School Gamer, Retired Wedding Photographer, Blogger, Speaker, Podcaster.
 	<br>
 	São Paulo, Brazil. GMT-3
+	<br>
+	+55 11 95259-3615
     """
     publicationYear = "2021"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
