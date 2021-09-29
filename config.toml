@@ -20,8 +20,6 @@ publishDir = "docs"
         Nerd, Community Lover, IT Guy, Father, Husband, Old School Gamer, Retired Wedding Photographer, Blogger, Speaker, Podcaster.
 	<br>
 	São Paulo, Brazil. GMT-3
-	<br>
-	+55 11 95259-3615
     """
     publicationYear = "2021"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
@@ -60,7 +58,7 @@ publishDir = "docs"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
     url = "mailto:valdecir.carvalho@outlook.com"
-    weight = 50
+    weight = 100
 
 [[menu.main]]
     identifier = "linkedin"
@@ -75,4 +73,19 @@ publishDir = "docs"
     pre = "<i class='fas fa-rss-square'></i>"
     url = "https://homelaber.com.br"
     weight = 40
+
+[[menu.main]]
+    identifier = "telegram"
+    # name = "telegram"
+    pre = "<i class='fab fa-telegram'></i>"
+    url = "https://t.me/vcarva"
+    weight = 35 
+
+[[menu.main]]
+    identifier = "whatsapp"
+    # name = "whatsapp"
+    pre = "<i class='fab fa-whatsapp'></i>"
+    url = "https://wa.me/+5511952593615"
+    weight = 36
+
 
