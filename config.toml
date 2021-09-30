@@ -20,7 +20,8 @@ publishDir = "docs"
 	Valdecir Carvalho <br>
         Nerd, Community Lover, IT Guy, Father, Husband, Old School Gamer, Retired Wedding Photographer, Blogger, Speaker, Podcaster.
 	<br>
-	São Paulo, Brazil. GMT-3
+	São Paulo, Brazil. GMT-3<br>
+	I hate coffee! Judge me.
     """
     publicationYear = "2021"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
